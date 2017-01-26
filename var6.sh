@@ -11,5 +11,3 @@ var5=$#
 echo $var5
 var6=$*
 echo $var6
-echo $var6
-echo $var6
